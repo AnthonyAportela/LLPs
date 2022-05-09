@@ -1,0 +1,281 @@
+|---- jetToolbox: Initialyzing collection...
+|---- jetToolBox: JETTOOLBOX RUNNING ON AOD FOR AK8 JETS USING CHS
+|---- jetToolBox: Applying this corrections: ('AK8PFchs', ['L1FastJet', 'L2Relative', 'L3Absolute'], 'None')
+SiXie: patJetsAK8PFCHS
+
+|---- jetToolBox: Nsubjetiness of subjets needs a Subjet collection. Or create one using addSoftDropSubjets option, or updateCollection.
+20-Nov-2020 18:00:10 CET  Initiating request to open file file:/afs/cern.ch/work/s/sixie/public/Production/displacedJetMuon/V1p17/2018/MC_RECO_SL7/1ABE1052-4D50-114A-BDB5-5C01BFD008E1.root
+20-Nov-2020 18:00:11 CET  Successfully opened file file:/afs/cern.ch/work/s/sixie/public/Production/displacedJetMuon/V1p17/2018/MC_RECO_SL7/1ABE1052-4D50-114A-BDB5-5C01BFD008E1.root
+LHEComments: ggH_HToSSTo4Tau_MH-125_MS-7_ctauS-100_TuneCP5_13TeV-powheg-pythia8
+Begin processing the 1st record. Run 1, Event 19709006, LumiSection 19710 on stream 0 at 20-Nov-2020 18:01:23.642 CET
+%MSG-e TkDetLayers:  displacedJetMuon_ntupler:ntuples 20-Nov-2020 18:01:44 CET  Run: 1 Event: 19709006
+ ForwardDiskSectorBuilderFromDet: Trying to build Petal Wedge from Dets at different z positions !! Delta_z = -0.950417
+%MSG
+GenParticles 451 : 16 1 2.47729 3.89068 
+GenParticles 452 : 11 1 8.37652 3.77251 
+GenParticles 453 : -12 1 17.2493 3.69305 
+GenParticles 454 : -16 1 0.40972 4.06211 
+GenParticles 455 : 111 2 14.8382 3.77308 
+GenParticles 456 : 111 2 11.2321 3.79126 
+GenParticles 457 : 211 1 3.61765 3.79356 
+GenParticles 458 : -16 1 15.2267 2.92804 
+GenParticles 459 : 111 2 24.7931 2.9052 
+GenParticles 460 : 211 1 4.17789 2.96033 
+GenParticles 461 : 16 1 1.281 2.79555 
+GenParticles 462 : -211 1 2.44526 2.98576 
+GenParticles 463 : -211 1 6.86252 2.99813 
+GenParticles 464 : 211 1 1.78861 2.8244 
+matchedLLP ID: 9000006
+NDaughter:2
+found Daughter: 1
+====================
+ -> 15
+====================
+ -> -15
+matchedLLP ID: -9000006
+NDaughter:2
+found Daughter: 1
+Begin processing the 2nd record. Run 1, Event 19709008, LumiSection 19710 on stream 0 at 20-Nov-2020 18:01:44.548 CET
+GenParticles 278 : -16 1 1.38487 -0.209975 
+GenParticles 279 : 211 1 0.267964 0.231899 
+GenParticles 280 : 211 1 0.177121 0.6784 
+GenParticles 281 : -211 1 0.845727 -0.668044 
+GenParticles 282 : 16 1 11.1123 -0.659162 
+GenParticles 283 : 13 1 3.54418 -0.787496 
+GenParticles 284 : -14 1 5.28448 -0.657049 
+GenParticles 285 : -16 1 2.48946 -4.2194 
+GenParticles 286 : -11 1 2.93109 -3.81252 
+GenParticles 287 : 12 1 4.00091 -3.89173 
+GenParticles 288 : 16 1 2.82162 -4.59038 
+GenParticles 289 : 111 2 2.60925 -4.56773 
+GenParticles 290 : 111 2 1.4294 -4.57284 
+GenParticles 291 : -211 1 2.01652 -4.27457 
+matchedLLP ID: 9000006
+NDaughter:2
+found Daughter: 1
+====================
+ -> 15
+====================
+ -> -15
+matchedLLP ID: -9000006
+NDaughter:2
+found Daughter: 1
+Begin processing the 3rd record. Run 1, Event 19709003, LumiSection 19710 on stream 0 at 20-Nov-2020 18:01:44.760 CET
+GenParticles 374 : 22 1 0.0316911 0.765984 
+GenParticles 783 : -16 1 0.427624 0.269069 
+GenParticles 784 : 111 2 6.98696 0.228964 
+GenParticles 785 : 211 1 1.47342 0.284068 
+GenParticles 786 : 211 1 0.435283 -0.0582164 
+GenParticles 787 : -211 1 6.07282 0.161311 
+GenParticles 788 : 16 1 3.03671 0.302506 
+GenParticles 789 : 111 2 31.7947 0.17431 
+GenParticles 790 : -211 1 6.98235 0.144344 
+GenParticles 791 : 16 1 0.51641 -0.184632 
+GenParticles 792 : 111 2 2.70766 0.804814 
+GenParticles 793 : -211 1 2.67945 0.590116 
+GenParticles 794 : -16 1 20.0015 0.774127 
+GenParticles 795 : 211 1 38.718 0.788601 
+matchedLLP ID: 9000006
+NDaughter:2
+found Daughter: 1
+====================
+ -> 15
+====================
+ -> -15
+matchedLLP ID: -9000006
+NDaughter:2
+found Daughter: 1
+Begin processing the 4th record. Run 1, Event 19709004, LumiSection 19710 on stream 0 at 20-Nov-2020 18:01:45.041 CET
+GenParticles 1480 : -16 1 4.33593 0.912495 
+GenParticles 1481 : -13 1 3.69944 0.747063 
+GenParticles 1482 : 14 1 8.11064 0.713112 
+GenParticles 1483 : 16 1 8.32814 1.02559 
+GenParticles 1484 : 11 1 2.3554 1.15558 
+GenParticles 1485 : -12 1 7.82821 1.16432 
+GenParticles 1486 : -16 1 1.60874 -1.44617 
+GenParticles 1487 : -11 1 6.24458 -1.37117 
+GenParticles 1488 : 12 1 6.17124 -1.27162 
+GenParticles 1489 : 16 1 3.31941 -0.981045 
+GenParticles 1490 : -211 1 12.6199 -1.14305 
+GenParticles 1491 : -211 1 5.89958 -1.04927 
+GenParticles 1492 : 211 1 6.42183 -1.15409 
+matchedLLP ID: 9000006
+NDaughter:2
+found Daughter: 1
+====================
+ -> 15
+====================
+ -> -15
+matchedLLP ID: -9000006
+NDaughter:2
+found Daughter: 1
+Begin processing the 5th record. Run 1, Event 19709001, LumiSection 19710 on stream 0 at 20-Nov-2020 18:01:45.495 CET
+GenParticles 312 : 22 1 0.00779738 -0.781289 
+GenParticles 609 : 16 1 10.6486 -0.68262 
+GenParticles 610 : 111 2 1.42462 -0.809511 
+GenParticles 611 : -211 1 10.0201 -0.741999 
+GenParticles 612 : -16 1 6.8323 -0.46547 
+GenParticles 613 : -11 1 4.37862 -0.290488 
+GenParticles 614 : 12 1 0.651477 -0.610607 
+GenParticles 615 : 16 1 3.69983 1.80171 
+GenParticles 616 : -211 1 0.574165 2.2165 
+GenParticles 617 : -211 1 0.638743 1.52288 
+GenParticles 618 : 211 1 1.43992 1.69691 
+GenParticles 619 : -16 1 10.5141 1.81494 
+GenParticles 620 : 111 2 0.66017 1.76928 
+GenParticles 621 : 111 2 2.71558 1.80529 
+GenParticles 622 : 211 1 14.3655 1.8148 
+matchedLLP ID: 9000006
+NDaughter:2
+found Daughter: 1
+====================
+ -> 15
+====================
+ -> -15
+matchedLLP ID: -9000006
+NDaughter:2
+found Daughter: 1
+Begin processing the 6th record. Run 1, Event 19709009, LumiSection 19710 on stream 0 at 20-Nov-2020 18:01:45.768 CET
+GenParticles 1086 : 16 1 4.25329 1.40352 
+GenParticles 1087 : -211 1 3.62275 1.3949 
+GenParticles 1088 : -211 1 12.1994 1.42061 
+GenParticles 1089 : 211 1 16.7429 1.47899 
+GenParticles 1090 : -16 1 1.33584 1.05431 
+GenParticles 1091 : 111 2 0.0721994 1.83609 
+GenParticles 1092 : 211 1 1.36088 1.80386 
+GenParticles 1093 : -16 1 0.584636 -0.521031 
+GenParticles 1094 : 111 2 0.268089 -0.93139 
+GenParticles 1095 : 321 1 1.34098 -1.73766 
+GenParticles 1096 : 16 1 1.99662 -2.4186 
+GenParticles 1097 : -211 1 0.370137 -2.39248 
+GenParticles 1098 : -311 2 6.01843 -2.18143 
+matchedLLP ID: 9000006
+NDaughter:2
+found Daughter: 1
+====================
+ -> 15
+====================
+ -> -15
+matchedLLP ID: -9000006
+NDaughter:2
+found Daughter: 1
+Begin processing the 7th record. Run 1, Event 19709007, LumiSection 19710 on stream 0 at 20-Nov-2020 18:01:45.991 CET
+GenParticles 440 : -16 1 3.41378 2.37631 
+GenParticles 441 : -11 1 7.57412 2.61733 
+GenParticles 442 : 12 1 7.77431 2.57023 
+GenParticles 443 : 16 1 8.45835 2.57259 
+GenParticles 444 : 111 2 3.14821 2.53848 
+GenParticles 445 : 111 2 3.59272 2.54282 
+GenParticles 446 : -211 1 4.15817 2.65595 
+GenParticles 447 : -16 1 1.01114 0.463456 
+GenParticles 448 : 111 2 19.5567 0.508202 
+GenParticles 449 : 211 1 5.64924 0.535477 
+GenParticles 450 : 211 1 6.10225 0.472482 
+GenParticles 451 : -211 1 1.45375 0.549486 
+GenParticles 452 : 16 1 3.57802 0.612889 
+GenParticles 453 : 111 2 1.35592 0.662756 
+GenParticles 454 : 111 2 0.779217 1.03423 
+GenParticles 455 : -211 1 2.95694 0.796051 
+matchedLLP ID: 9000006
+NDaughter:2
+found Daughter: 1
+====================
+ -> 15
+====================
+ -> -15
+matchedLLP ID: -9000006
+NDaughter:2
+found Daughter: 1
+Begin processing the 8th record. Run 1, Event 19709010, LumiSection 19710 on stream 0 at 20-Nov-2020 18:01:46.391 CET
+GenParticles 1193 : -16 1 5.35677 0.0430561 
+GenParticles 1194 : 111 2 1.08569 -0.00305489 
+GenParticles 1195 : 111 2 0.667941 0.351855 
+GenParticles 1196 : 111 2 0.42646 0.0656205 
+GenParticles 1197 : 211 1 5.42717 0.0969737 
+GenParticles 1198 : 16 1 42.4129 0.298399 
+GenParticles 1199 : -211 1 8.22474 0.2114 
+GenParticles 1200 : 16 1 7.95258 0.52378 
+GenParticles 1201 : -211 1 7.85258 0.503637 
+GenParticles 1202 : -321 1 21.4368 0.516194 
+GenParticles 1203 : 321 1 15.5528 0.526641 
+GenParticles 1204 : -16 1 3.18751 0.528629 
+GenParticles 1205 : 211 1 7.47786 0.206729 
+matchedLLP ID: 9000006
+NDaughter:2
+found Daughter: 1
+====================
+ -> 15
+====================
+ -> -15
+matchedLLP ID: -9000006
+NDaughter:2
+found Daughter: 1
+Begin processing the 9th record. Run 1, Event 19709011, LumiSection 19710 on stream 0 at 20-Nov-2020 18:01:46.585 CET
+GenParticles 2096 : -16 1 23.605 1.76 
+GenParticles 2097 : 211 1 0.139885 1.83497 
+GenParticles 2098 : 16 1 19.7957 1.54073 
+GenParticles 2099 : 11 1 4.20113 1.43989 
+GenParticles 2100 : -12 1 6.76931 1.60208 
+GenParticles 2101 : 16 1 0.838285 1.06792 
+GenParticles 2102 : 11 1 39.6531 1.27202 
+GenParticles 2103 : -12 1 2.72268 1.23537 
+GenParticles 2104 : -16 1 9.84948 1.2866 
+GenParticles 2105 : -13 1 8.52301 1.24856 
+GenParticles 2106 : 14 1 8.35329 1.29272 
+matchedLLP ID: 9000006
+NDaughter:2
+found Daughter: 1
+====================
+ -> 15
+====================
+ -> -15
+matchedLLP ID: -9000006
+NDaughter:2
+found Daughter: 1
+Begin processing the 10th record. Run 1, Event 19709005, LumiSection 19710 on stream 0 at 20-Nov-2020 18:01:47.580 CET
+GenParticles 464 : -16 1 6.68643 1.35051 
+GenParticles 465 : -11 1 9.1711 1.41537 
+GenParticles 466 : 12 1 5.69536 1.54806 
+GenParticles 467 : 16 1 7.60104 1.74953 
+GenParticles 468 : 11 1 13.8432 1.64933 
+GenParticles 469 : -12 1 7.3381 1.58374 
+GenParticles 470 : -16 1 10.9515 0.852328 
+GenParticles 471 : -13 1 9.81702 0.839448 
+GenParticles 472 : 14 1 23.4154 0.872861 
+GenParticles 473 : 16 1 12.1638 0.73008 
+GenParticles 474 : 13 1 4.75321 0.635666 
+GenParticles 475 : -14 1 6.03008 0.712189 
+matchedLLP ID: 9000006
+NDaughter:2
+found Daughter: 1
+====================
+ -> 15
+====================
+ -> -15
+matchedLLP ID: -9000006
+NDaughter:2
+found Daughter: 1
+20-Nov-2020 18:01:47 CET  Closed file file:/afs/cern.ch/work/s/sixie/public/Production/displacedJetMuon/V1p17/2018/MC_RECO_SL7/1ABE1052-4D50-114A-BDB5-5C01BFD008E1.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 TkDetLayers          -e displacedJetMuon                       1        1
+    2 fileAction           -s file_close                             1        1
+    3 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 TkDetLayers          1/19709006                        
+    2 fileAction           PostGlobalEndRun                  
+    3 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Error                   1                   1
+System                  3                   3
+
+dropped waiting message count 0
