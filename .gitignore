@@ -1,4 +1,4 @@
-*.pdf
+
 *.root
 *.ipynb_checkpoints
 *.csv
